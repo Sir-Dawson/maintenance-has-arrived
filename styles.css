@@ -1,20 +1,22 @@
 body {
     background-color: #000000;
-     border: 1px solid #FFFFFF;
     padding: 10px;
     margin: 20px;
     text-indent: 30%;
 }
 h1 {
     color: #F5F5F5;
+    text-indent: 30%;
 }
 h2 {
     color: #F5F5F5;
+    text-indent: 30%;
 }
 ul {
     color: #F5F5F5;
+    text-indent: 30%;
 }
 p {
     color: #F5F5F5;
-   
-}
+    text-indent: 30%;
+   }
