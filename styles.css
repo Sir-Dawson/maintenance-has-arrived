@@ -1,5 +1,8 @@
 body {
     background-color: #000000;
+     border: 1px solid #FFFFFF;
+    padding: 10px;
+    margin: 20px;
 }
 h1 {
     color: #F5F5F5;
@@ -12,7 +15,5 @@ ul {
 }
 p {
     color: #F5F5F5;
-    border: 1px solid powderblue;
-    padding: 10px;
-    margin: 20px;
+   
 }
