@@ -22,18 +22,18 @@ br {
 }
 .padded-multiline { 
   line-height: 1.3; 
-  padding: 2px 0; 
+  padding: 20%; 
   border-left: 20px solid #c0c;
   width: 400px;
   margin: 20px auto;
 }
 .padded-multiline h1 { 
-  padding: 4px 0;
+  padding: 20%;
   display: inline;
   margin: 0; 
 }
 .padded-multiline h2 { 
-  padding: 4px 0;
+  padding: 25%;
   display: inline;
   margin: 0; 
 }
