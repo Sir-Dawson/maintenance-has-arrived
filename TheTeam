@@ -1,0 +1,22 @@
+<html>
+
+<head>
+    <title>MAINTENANCE HAS ARRIVED - The Team</title>
+	
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<div class="padded-multiline">
+	<h2>The Team of professional cleaners hold the following qualifications</h2>
+	<ul>
+		<li>First Aid</li>
+		<li>Blue Card</li>
+		<li>Industry Specific Training</li>
+	</ul>
+	</div>
+ 
+</body>
+
+</html>
