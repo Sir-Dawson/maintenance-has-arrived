@@ -36,20 +36,20 @@ h2 {
     color: #F5F5F5;
     text-align: center;
 }
-.h3 {
+h3 {
     color: #F5F5F5;
     text-align: center;
     /*text-indent: 30%;*/
 }
-.ul {
+ul {
     color: #F5F5F5;
     /*text-indent: 30%;*/
 }
-.p {
+p {
     color: #F5F5F5;
     /*text-indent: 30%;*/
 }
-.br {
+br {
     /*text-indent: 30%;*/
 }
 .padded-multiline { 
