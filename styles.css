@@ -154,8 +154,8 @@ br {
 /* Style the box */
 .box {
   width: 80%;
-  padding: 25px;
-  margin: auto;	
+  padding: auto;
+  margin: 15%;	
   border: 2px solid;
   border-color: #808080;
   border-radius: 5px;
