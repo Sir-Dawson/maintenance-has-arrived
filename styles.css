@@ -83,23 +83,23 @@
 }
 
 h1 {
-    color: #F5F5F5;
+    color: #000000;
     /*text-align: center;*/
 }
 h2 {
-    color: #F5F5F5;
+    color: #000000;
     /*text-align: center;*/
 }
 h3 {
-    color: #F5F5F5;
+    color: #000000;
     /*text-indent: 30%;*/
 }
 ul {
-    color: #F5F5F5;
+    color: #000000;
     /*text-indent: 30%;*/
 }
 p {
-    color: #F5F5F5;
+    color: #000000;
     /*text-indent: 30%;*/
 }
 br {
@@ -154,7 +154,7 @@ br {
 /* Style the box */
 .box {
   width: 80%;
-  padding: 0px;
+  padding: 10px;
   margin: auto;	
   border: 2px solid;
   border-color: #808080;
