@@ -1,82 +1,8 @@
-/* Style the main content */
-.main {
-  margin-left: 160px; /* Same as the width of the sidenav */
-  padding: 0px 10px;
-}
-
 /* Add media queries for small screens (when the height of the screen is less than 450px, add a smaller padding and font-size) */
 @media screen and (max-height: 450px) {
   .sidebar {padding-top: 15px;}
   .sidebar a {font-size: 18px;}
 }
-
-.navbar {
-    overflow: hidden;
-    background-color: #000000;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
-}
-
-/* Links inside the navbar */
-.navbar a {
-    float: left;
-    display: block;
-    color: #F5F5F5;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-        
-/* Links - change color on hover */
-.topnav a:hover {
-    background-color: #ddd;
-    color: black;
-}
-
-.column {
-  float: left;
-}
-
-/* Left and right column */
-.column.side {
-  width: 25%;
-}
-
-/* Middle column */
-.column.middle {
-  width: 50%;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column.side, .column.middle {
-    width: 100%;
-  }
-}
-
-h1 {
-    color: #000000;
-    /*text-align: center;*/
-}
-h2 {
-    color: #000000;
-    /*text-align: center;*/
-}
-h3 {
-    color: #000000;
-    /*text-indent: 30%;*/
-}
-ul {
-    color: #000000;
-    /*text-indent: 30%;*/
-}
-p {
-    color: #000000;
-    /*text-indent: 30%;*/
-}
-br {
-    /*text-indent: 30%;*/
 
 /* Style the footer */
 .footer {
