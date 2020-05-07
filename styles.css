@@ -50,30 +50,30 @@ body {
   text-align: center;
 } 
   
-/* Style the sidebar - fixed full height */
-.sidebar {
-  height: 100%;
-  width: 160px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
+/* The sidebar menu */
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
   left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 16px;
+  background-color: #111; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
 }
 
-/* Style sidebar links */
-.sidebar a {
+/* The navigation menu links */
+.sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 25px;
   color: #818181;
   display: block;
 }
 
-/* Style links on mouse-over */
-.sidebar a:hover {
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
   color: #f1f1f1;
 }
 
